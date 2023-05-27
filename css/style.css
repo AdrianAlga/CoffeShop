@@ -21,6 +21,11 @@
   transition: all 0.2s linear;
 }
 
+.icn-akun {
+  width: 35px;
+  height: 35px;
+}
+
 html {
   font-size: 62.5%;
   overflow-x: hidden;
@@ -317,7 +322,7 @@ a {
 }
 
 /* Spasi Kosong */
-.spasi_kosong{
+.spasi_kosong {
   margin-bottom: 40px;
 }
 
@@ -405,5 +410,3 @@ a {
     width: 100%;
   }
 }
-
-
